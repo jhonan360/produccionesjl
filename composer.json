@@ -1,13 +1,7 @@
-"authors": [
-	{
-		"name": "Jhonan Vargas",
-		"email": "algo@aaa.com",
-		"role": "Project Manager"
-	},
-	]
-	"require": {
-	"php" : "^5.5 || ^7.0",
-        "ext-mbstring": "*"
-	}
+"require": {
+	"respect/validation": "0.6.*",
+	"phpunit/phpunit": ">=4.0",
+	"tinymce/tinymce": "dev-master"
+}
 	
 
