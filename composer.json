@@ -6,9 +6,8 @@
 	},
 	
 	"require": {
-	"respect/validation": "0.6.*",
-	"phpunit/phpunit": ">=4.0",
-	"tinymce/tinymce": "dev-master"
+	"php" : "^5.5 || ^7.0",
+        "ext-mbstring": "*"
 	}
 	
 ]
